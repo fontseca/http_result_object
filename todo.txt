@@ -1,0 +1,2 @@
+TODO:
+  - If the nature of the data is recursive, add support for selecting tree-like fields such as `address.geo.latitude'.
